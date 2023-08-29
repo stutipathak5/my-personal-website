@@ -22,7 +22,7 @@ organizations:
     url: https://www.uantwerpen.be/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include point cloud simplification, gaussian processes, graph neural networks.
+bio: I develop efficient point cloud processing techniques leveraging ideas from graph representation learning and fiddling with some Bayesian approaches every now and then.
 
 # Interests to show in About widget
 interests:
