@@ -1,28 +1,28 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Stuti Pathak
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Stuti
+last_name: Pathak
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Researcher in 3D Computer Vision
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Antwerp
+    url: https://www.uantwerpen.be/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include point cloud simplification, gaussian processes, graph neural networks.
 
 # Interests to show in About widget
 interests:
@@ -50,22 +50,25 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
+    link: mailto:stutipathak.97@gmail.com
+    # label: Send me an e-mail!
+    # display:
+    #   header: true
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/GeorgeCushen
+  #   label: Follow me on Twitter
+  #   display:
+  #     header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?hl=en&user=m0BxRBMAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/stutipathak5
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/stutipathak5
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -80,5 +83,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi there! As a researcher, I am currently focused in developing efficient point cloud processing techniques leveraging ideas from graph representation learning and fiddling with some Bayesian approaches every now and then. Outside of work, I am an amateur photography and editing enthusiast. Don't forget to [check out](#mm) some of my clicks!
 {style="text-align: justify;"}

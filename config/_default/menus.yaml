@@ -7,21 +7,27 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Posts
-    url: '#posts'
+  - name: Education
+    url: '#edu'
     weight: 20
-  - name: Projects
-    url: '#projects'
-    weight: 30
-  - name: Talks
-    url: '#talks'
-    weight: 40
-  - name: Publications
+  # - name: Schools & Courses
+  #   url: '#acc'
+  #   weight: 30
+  # - name: Projects
+    # url: '#projects'
+    # weight: 40
+  - name: Publications & Preprints
     url: '#featured'
     weight: 50
-  - name: Contact
-    url: '#contact'
-    weight: 60
+  # - name: Posts
+  #   url: '#posts'
+  #   weight: 60
+  # - name: Talks
+  #   url: '#talks'
+  #   weight: 70
+  - name: Gallery
+    url: '#mm'
+    weight: 80
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.

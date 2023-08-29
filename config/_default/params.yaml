@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
+  theme_day: forest
+  theme_night: dark
   font: minimal
   font_size: L
 
@@ -71,7 +71,7 @@ features:
     url: 'https://github.com/<username>/<repository>'
     content_dir: content
     branch: main
-  avatar:
+  avatar: 
     gravatar: false
     shape: circle
   comment:
