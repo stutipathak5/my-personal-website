@@ -83,5 +83,5 @@ email: ''
 highlight_name: true
 ---
 
-Hi there! As a researcher, I am currently focused in developing efficient point cloud processing techniques leveraging ideas from graph representation learning and fiddling with some Bayesian approaches every now and then. Outside of work, I am an amateur photography and editing enthusiast. Don't forget to [check out](#mm) some of my clicks!
+Hi there! As a researcher, I am currently focused on developing efficient point cloud processing techniques leveraging ideas from graph representation learning and fiddling with some Bayesian approaches every now and then. Outside of work, I am an amateur photography and editing enthusiast. Don't forget to [check out](#mm) some of my clicks!
 {style="text-align: justify;"}
