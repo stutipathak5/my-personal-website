@@ -63,6 +63,9 @@ social:
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?hl=en&user=m0BxRBMAAAAJ
+  - icon: researchgate
+    icon_pack: fab
+    link: https://www.researchgate.net/profile/Stuti-Pathak-2
   - icon: github
     icon_pack: fab
     link: https://github.com/stutipathak5
