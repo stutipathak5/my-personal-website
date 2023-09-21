@@ -37,7 +37,7 @@ Our method does not need to assume any distortion model and can be applied to se
 
 This model allows for a serious upgrade of many algorithms and applications that are designed in a pure projective geometry setting but with a performance that is very sensitive to non-linear lens distortions. We demonstrate the effectiveness of our method by simplifying Zhang's calibration method, reducing the number of parameters and getting rid of the distortion parameters and iterative optimization. We validate by means of synthetic data and real world images. The contributions of this work include the construction of a virtual ideal pinhole camera using Gaussian processes, a simplified calibration method and lens distortion removal. 
 
-\keywords{Pinhole camera \and Zhang's method \and Gaussian processes \and Removing lens distortion.}"
+\keywords{Pinhole camera, Zhang's method, Gaussian processes, Removing lens distortion.}"
 # Summary. An optional shortened abstract.
 summary: 
 tags: []
