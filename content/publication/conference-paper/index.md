@@ -41,7 +41,7 @@ featured: true
 # Custom links (uncomment lines below)
 links:
 - name: arXiv
-  url: https://arxiv.org/abs/2303.15225
+  url: https://doi.org/10.48550/arXiv.2303.15225
 
 # url_pdf: ''
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
