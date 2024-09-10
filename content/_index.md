@@ -51,6 +51,29 @@ sections:
           description: 
     design:
       columns: '2'
+  - block: experience
+    id: exp
+    content:
+      title: Experience
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: PhD Research Internship
+          company: GIM - Geographic Information Management
+          company_url: 'https://www.gim.be/en'
+          company_logo: 
+          location: Belgium
+          date_start: '2024-04-02'
+          date_end: '2024-07-31'
+          description: 
+    design:
+      columns: '2'
   # - block: accomplishments
   #   id: acc
   #   content:
