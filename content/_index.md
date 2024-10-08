@@ -64,7 +64,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: PhD Research Internship
+        - title: Research Internship
           company: GIM - Geographic Information Management
           company_url: 'https://www.gim.be/en'
           company_logo: 

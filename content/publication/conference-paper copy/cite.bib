@@ -1,8 +1,17 @@
-@misc{deboi2023turn,
-      title={How to turn your camera into a perfect pinhole model}, 
-      author={Ivan De Boi and Stuti Pathak and Marina Oliveira and Rudi Penne},
-      year={2023},
-      eprint={2309.11326},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@InProceedings{10.1007/978-3-031-49018-7_7,
+author="De Boi, Ivan
+and Pathak, Stuti
+and Oliveira, Marina
+and Penne, Rudi",
+editor="Vasconcelos, Ver{\'o}nica
+and Domingues, In{\^e}s
+and Paredes, Sim{\~a}o",
+title="How to Turn Your Camera into a Perfect Pinhole Model",
+booktitle="Progress in Pattern Recognition, Image Analysis, Computer Vision, and Applications",
+year="2024",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="90--107",
+abstract="Camera calibration is a first and fundamental step in various computer vision applications. Despite being an active field of research, Zhang's method remains widely used for camera calibration due to its implementation in popular toolboxes like MATLAB and OpenCV. However, this method initially assumes a pinhole model with oversimplified distortion models. In this work, we propose a novel approach that involves a pre-processing step to remove distortions from images by means of Gaussian processes. Our method does not need to assume any distortion model and can be applied to severely warped images, even in the case of multiple distortion sources, e.g., a fisheye image of a curved mirror reflection. The Gaussian processes capture all distortions and camera imperfections, resulting in virtual images as though taken by an ideal pinhole camera with square pixels. Furthermore, this ideal GP-camera only needs one image of a square grid calibration pattern. This model allows for a serious upgrade of many algorithms and applications that are designed in a pure projective geometry setting but with a performance that is very sensitive to non-linear lens distortions. We demonstrate the effectiveness of our method by simplifying Zhang's calibration method, reducing the number of parameters and getting rid of the distortion parameters and iterative optimization. We validate by means of synthetic data and real world images. The contributions of this work include the construction of a virtual ideal pinhole camera using Gaussian processes, a simplified calibration method and lens distortion removal.",
+isbn="978-3-031-49018-7"
 }

@@ -7,6 +7,7 @@ title: 'GP-PCS: One-shot Feature-Preserving Point Cloud Simplification with Gaus
 authors:
   - admin
   - Thomas M. McDonald
+  - Seppe Sels
   - Rudi Penne
 
 # Author notes (optional)
@@ -14,23 +15,23 @@ author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2023-08-01T00:00:00Z'
-doi: ''
+date: '2024-09-07T00:00:00Z'
+doi: 'https://doi.org/10.48550/arXiv.2303.15225'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-08-01T00:00:00Z'
+publishDate: '2024-09-07T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: arXiv
-publication_short: arXiv
+publication: Accepted in ICPR 2024
+publication_short: Accepted in ICPR 2024
 
-abstract: The processing, storage and transmission of large-scale point clouds is an ongoing challenge in the computer vision community which hinders progress in the application of 3D models to real-world settings, such as autonomous driving, virtual reality and remote sensing. We propose a novel, one-shot point cloud simplification method which preserves both the salient structural features and the overall shape of a point cloud without any prior surface reconstruction step. Our method employs Gaussian processes suitable for functions defined on Riemannian manifolds, allowing us to model the surface variation function across any given point cloud. A simplified version of the original cloud is obtained by sequentially selecting points using a greedy sparsification scheme. The selection criterion used for this scheme ensures that the simplified cloud best represents the surface variation of the original point cloud. We evaluate our method on several benchmark and self-acquired point clouds, compare it to a range of existing methods, demonstrate its application in downstream tasks of registration and surface reconstruction, and show that our method is competitive both in terms of empirical performance and computational efficiency.
+abstract: The processing, storage and transmission of large-scale point clouds is an ongoing challenge in the computer vision community which hinders progress in the application of 3D models to real-world settings, such as autonomous driving, virtual reality and remote sensing. We propose a novel, one-shot point cloud simplification method which preserves both the salient structural features and the overall shape of a point cloud without any prior surface reconstruction step. Our method employs Gaussian processes suitable for functions defined on Riemannian manifolds, allowing us to model the surface variation function across any given point cloud. A simplified version of the original cloud is obtained by sequentially selecting points using a greedy sparsification scheme. The selection criterion used for this scheme ensures that the simplified cloud best represents the surface variation of the original point cloud. We evaluate our method on several benchmark and self-acquired point clouds, compare it to a range of existing methods, demonstrate its application in downstream tasks of registration and surface reconstruction, and show that our method is competitive both in terms of empirical performance and computational efficiency. The code is available at https://github.com/stutipathak5/gps-for-point-clouds.
 # Summary. An optional shortened abstract.
 summary: 
 tags: []

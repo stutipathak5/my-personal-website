@@ -15,21 +15,21 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2023-09-01T00:00:00Z'
-doi: ''
+date: '2023-11-27T00:00:00Z'
+doi: 'https://doi.org/10.1007/978-3-031-49018-7_7'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-09-01T00:00:00Z'
+publishDate: '2023-11-27T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: arXiv
-publication_short: arXiv
+publication: Progress in Pattern Recognition, Image Analysis, Computer Vision, and Applications (V. Vasconcelos, I. Domingues, and S. Paredes, eds.), CIARP 2023. Lecture Notes in Computer Science, vol 14469, Springer, Cham.
+publication_short: Lecture Notes in Computer Science, Springer
 
 abstract: "Camera calibration is a first and fundamental step in various computer vision applications. Despite being an active field of research, Zhang's method remains widely used for camera calibration due to its implementation in popular toolboxes like MATLAB and OpenCV. However, this method initially assumes a pinhole model with oversimplified distortion models. In this work, we propose a novel approach that involves a pre-processing step to remove distortions from images by means of Gaussian processes. 
 
